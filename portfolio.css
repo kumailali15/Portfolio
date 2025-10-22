@@ -1,0 +1,128 @@
+body {
+    background-color: white;
+}
+
+#logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#navbar {
+    display: inline-block;
+    margin-left: 750px;
+    vertical-align: middle;
+}
+
+#img1 {
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    vertical-align: middle;
+}
+
+#name {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#links>li:hover {
+    background-color: rgb(158, 153, 153);
+    color: orange;
+    list-style-type: none;
+}
+
+button {
+    color: white;
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+ul>li {
+    display: inline;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+#main {
+    width: 100%;
+}
+
+#left {
+    width: 49%;
+    display: inline-block;
+    margin-right: 22px;
+}
+
+#right {
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#text {
+    margin: 70px 30px;
+}
+
+#text>button {
+    padding: 10px 30px;
+    border-radius: 6px;
+    background-color: orange;
+    color: white;
+}
+
+#right>img {
+    width: 80%;
+    display: inline-block;
+}
+
+#text>p {
+    font-size: large;
+}
+
+#text>h1 {
+    font-size: 50px;
+}
+
+#title {
+    margin: 30px auto;
+    text-align: center;
+}
+
+#title>h1 {
+    margin: 30px auto;
+    font-size: 50px;
+    margin-top: 60px;
+}
+
+#title>p {
+    margin: 30px auto;
+    font-size: large;
+    color: rgb(146, 146, 146);
+}
+
+#cards {
+    display: inline-block;
+    width: 400px;
+    border: 2px solid red;
+}
+
+#cardDiv {
+    display: inline-block;
+}
+
+#cardimage {
+    width: 100%;
+    display: inline-block;
+}
+
+#cardimage>img {
+    display: inline-block;
+    width: 100%;
+}
+
+#cardtext {
+    padding: 20px;
+    margin: 10px 30px 20px 10px;
+}
