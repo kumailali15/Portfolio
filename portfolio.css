@@ -4,6 +4,10 @@ body {
     background-color: white;
 }
 
+nav {
+    background-color: orange;
+}
+
 #logo {
     display: inline-block;
     vertical-align: middle;
@@ -133,4 +137,8 @@ ul>li {
 #footer {
     margin-top: 50px;
     text-align: center;
+}
+
+footer {
+    background-color: orange;
 }
